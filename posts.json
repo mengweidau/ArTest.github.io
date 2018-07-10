@@ -1,5 +1,11 @@
 {
   "posts": "This is a post value",
   "comments": "This is a comments value",
-  "profile": "This is a profile value"
+  "profile": "This is a profile value",
+  "odd" : [
+    {
+      "id": 1,
+      "title": "Post 1"
+    }
+  ]
 }
