@@ -1,5 +1,5 @@
 {
-  "posts": "This is a post value",
+  "posts": "This is a CHANGED post value",
   "comments": "This is a comments value",
   "profile": "This is a profile value",
   "odd" : [
